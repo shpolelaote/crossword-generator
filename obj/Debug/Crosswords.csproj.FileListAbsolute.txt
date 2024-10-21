@@ -1,0 +1,14 @@
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Назар\Crosswords\Crosswords\obj\Debug\Crosswords.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Назар\Crosswords\Crosswords\obj\Debug\Crosswords.Form1.resources
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Назар\Crosswords\Crosswords\obj\Debug\Crosswords.Properties.Resources.resources
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Назар\Crosswords\Crosswords\obj\Debug\Crosswords.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Назар\Crosswords\Crosswords\obj\Debug\Crosswords.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Назар\Crosswords\Crosswords\bin\Debug\Crosswords.exe.config
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Назар\Crosswords\Crosswords\bin\Debug\Crosswords.exe
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Назар\Crosswords\Crosswords\bin\Debug\Crosswords.pdb
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Назар\Crosswords\Crosswords\obj\Debug\Crosswords.exe
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Назар\Crosswords\Crosswords\obj\Debug\Crosswords.pdb
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Назар\Crosswords\Crosswords\bin\Debug\Crosswords.exe.manifest
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Назар\Crosswords\Crosswords\bin\Debug\Crosswords.application
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Назар\Crosswords\Crosswords\obj\Debug\Crosswords.exe.manifest
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Назар\Crosswords\Crosswords\obj\Debug\Crosswords.application
